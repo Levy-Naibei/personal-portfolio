@@ -20,8 +20,12 @@ const Timeline = () => {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2> 51 Degrees Ltd <span>Jan 2021 - Upto-date</span></h2>
-                        <p> Added search location functionality to existing software by querying Google Gecode API</p>
+                        <h2>51 Degrees Ltd <span>Jan 2021 - Present</span></h2>
+                        <p>Integrating React App with google APIs</p>
+                        <p>Adding functionalities to existing software applications</p>
+                        <p>Developing python scripts that automate posting/fetching data to/from remote server</p>
+                        <p>Administering company's web app</p>
+                        <p>Mentoring Intern</p>
                       </div>
                     </div>
                   </article>
@@ -31,8 +35,11 @@ const Timeline = () => {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>Undergraduation at DAIICT<span>2015-2019</span></h2>
-                        <p>I am pursuing my under-graduation studies with major in I.C.T.(Information & Communication Technology). I have taken courses like DSA, OOPs, Computer Networks, IOT, Web-Data Management over the years and have better understanding of these subjects.I have also been part of S.B.G.(Student Body Govenance) scince my first year of college.</p>
+                        <h2>Major League Hacking (MLH) <span>09/2020 - 12/2020</span></h2>
+                        <p>In remote Agile team, I built the UI for LearnForFree, an app that fetches free courses from various online learning platforms such as edX, Coursera, FutureLearn</p>
+                        <p>Participated in webinars held by engineers from Facebook, Github, Twilio etc, about the challenges they face and how I can be part of the solution </p>
+                        <p>I also built interface for AskFlow, a CLI tool that fetches answers from StackOverflow. We queried stackExchange API. I also published the tool as pip package in PyPI </p>
+                        <p> See linkedIn profile for details </p>
                       </div>
                     </div>
                   </article>
@@ -42,8 +49,11 @@ const Timeline = () => {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>Primary and Higher Education <span>2003-2015</span></h2>
-                        <p>I have completed my higher secondary education with major subjects as Physics,Chemistry & Maths with 91 merit. During my time at school, I have developed interest in solving complex problems of the fundamental physics which helped me to improve my understanding of any problem and also my mathematical skills to actually solve the problems.</p> 
+                        <h2>Andela & Facebook Developer Circles <span>04/2020 - 07/2020</span></h2>
+                        <p>Designed and developed Novelty COVID-19 infections impact estimator</p>
+                        <p>Lead a team of 6 in designing and developing web app that can help double income and productivity of small scale farmers </p>
+                        <p>Worked in agile teams to build real-world, locally and relevant solutions focused on the Sustainable Development Goals(SDGs) </p>
+                        <p>See linkedIn profile for details </p>
                       </div>
                     </div>
                   </article>
