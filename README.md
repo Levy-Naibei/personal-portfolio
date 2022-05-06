@@ -7,6 +7,7 @@
 ## Techonologies used in building
 
 - Reactjs
+- SCSS
 
 ## Hosted site
 - Link to hosted app: [Levy Naibei](https://levy-naibei.netlify.app)

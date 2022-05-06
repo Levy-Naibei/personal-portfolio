@@ -33,11 +33,11 @@ export default class Sidebar extends Component {
             </nav>
             <div className="colorlib-footer">
               <p><small>
-                  Made with <i className="icon-heart" aria-hidden="true" /><br />
+                  {/* Made with <i className="icon-heart" aria-hidden="true" /><br /> */}
                   {/* Thanks <a href="https://colorlib.com" target="_blank" rel="noopener noreferrer">Colorlib</a> for inspiration  */}
               </small></p>
               <p><small>
-                Something coming soon !!
+                
               </small></p>
             </div>
           </aside>
